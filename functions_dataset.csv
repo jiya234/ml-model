@@ -1,0 +1,2001 @@
+description,parameters,return_type,library,keywords,param_count,function_name
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sorts integer array,int[] arr,int[],ArrayUtils,sort array,1,sortArray
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Sends HTTP POST request,String url String body,HttpResponse,NetworkService,http api post,2,sendPostRequest
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Encrypts password,String password,String,SecurityUtils,encrypt password,1,encryptPassword
+Multiplies two integers,int a int b,int,MathUtils,multiply product arithmetic,2,multiplyNumbers
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Calculates average of numbers,int a int b,float,StatsUtils,average mean stats,2,calculateAverage
+Finds maximum of two numbers,int a int b,int,MathUtils,max compare,2,findMax
+Sends HTTP GET request,String url,HttpResponse,NetworkService,http api request,1,sendGetRequest
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Adds two integers and returns sum,int a int b,int,MathUtils,add sum arithmetic,2,addNumbers
+Divides two integers,int a int b,float,MathUtils,divide arithmetic,2,divideNumbers
+Parses JSON string,String json,JSONObject,JsonUtils,json parse,1,parseJson
+Searches element in array,int[] arr int key,int,ArrayUtils,search find array,2,searchElement
+Finds minimum of two numbers,int a int b,int,MathUtils,min compare,2,findMin
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Converts Celsius to Fahrenheit,float c,float,TempUtils,convert temperature,1,convertCelsiusToFahrenheit
+Deletes file,String path,boolean,FileUtils,delete remove file,1,deleteFile
+Decrypts password,String encrypted,String,SecurityUtils,decrypt password,1,decryptPassword
+Reads file content,String path,String,FileUtils,read file,1,readFile
+Writes content to file,String path String data,boolean,FileUtils,write save file,2,writeFile
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Converts Fahrenheit to Celsius,float f,float,TempUtils,convert temperature,1,convertFahrenheitToCelsius
+Subtracts second number from first,int a int b,int,MathUtils,subtract minus arithmetic,2,subtractNumbers
+Generates random number,int min int max,int,RandomUtils,random generate number,2,generateRandomNumber
