@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ML Function Predictor</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 50px;">
+
+<h2>Function Name Predictor</h2>
+
+<input 
+    type="text" 
+    id="inputText" 
+    placeholder="Enter function description" 
+    style="width: 300px; padding: 10px;"
+>
+
+<br><br>
+
+<button onclick="predict()" style="padding: 10px 20px;">
+    Predict
+</button>
+
+<h3 id="result"></h3>
+
+<script>
+async function predict() {
+    let text = document.getElementById("inputText").value;
+
+    if (!text) {
+        document.getElementById("result").innerText = "Please enter input";
+        return;
+    }
+
+    try {
+        let response = await fetch(
+            `http://127.0.0.1:8000/predict?text=${encodeURIComponent(text)}`
+        );
+
+        let data = await response.json();
+
+        console.log(data);
+
+        document.getElementById("result").innerText =
+            "Prediction: " + data.prediction;
+
+    } catch (error) {
+        console.log("Error:", error);
+        document.getElementById("result").innerText =
+            "Error connecting to backend";
+    }
+}
+</script>
+
+</body>
+</html>
