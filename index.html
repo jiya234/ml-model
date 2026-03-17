@@ -32,8 +32,8 @@ async function predict() {
     }
 
     try {
-      let response = await fetch(
-    `/predict?text=${encodeURIComponent(text)}`
+     let response = await fetch(
+    `https://ml-model-n2eq.onrender.com/predict?text=${encodeURIComponent(text)}`
 );
 
         let data = await response.json();
