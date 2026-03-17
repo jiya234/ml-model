@@ -1,21 +1,28 @@
 from fastapi import FastAPI
-from fastapi.responses import HTMLResponse
-import joblib
+from fastapi.middleware.cors import CORSMiddleware
+import pickle
 
 app = FastAPI()
 
-model = joblib.load("model.pkl")
-vectorizer = joblib.load("vectorizer.pkl")
+# ✅ CORS fix
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-# 👇 HTML serve karega
-@app.get("/", response_class=HTMLResponse)
+# load model
+model = pickle.load(open("model.pkl", "rb"))
+vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
+
+@app.get("/")
 def home():
-    with open("index.html", "r") as f:
-        return f.read()
+    return {"message": "ML API is running"}
 
-# 👇 prediction API
 @app.get("/predict")
 def predict(text: str):
     vec = vectorizer.transform([text])
-    pred = model.predict(vec)
-    return {"prediction": pred[0]}
+    result = model.predict(vec)
+    return {"prediction": result[0]}
